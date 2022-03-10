@@ -4,8 +4,7 @@ import streamlit as st
 
 def app():
 
-    st.title("cycle_safe(berlin):")
-    st.header("helping to keep you and your bike safe")
+    st.title("cycle_safe(berlin): helping to keep you and your bike safe")
 
     st.subheader("How can we use Machine Learning to mitigate")
     st.subheader("1. Bike theft risk")
