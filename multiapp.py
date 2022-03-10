@@ -42,6 +42,7 @@ class MultiApp:
         st.sidebar.image("./images/bike (3).png", use_column_width=False)
         st.sidebar.title("cycle_safe(berlin)")
         st.markdown('##')
+        st.markdown('##')
         app = st.sidebar.radio(
             'Go To',
             self.apps,
