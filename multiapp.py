@@ -40,7 +40,7 @@ class MultiApp:
 
     def run(self):
         
-        st.sidebar.header("cycle_safe(berlin)")
+        st.sidebar.title("cycle_safe(berlin)")
        
         app = st.sidebar.radio(
             'Go To',
