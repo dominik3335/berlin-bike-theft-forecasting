@@ -39,7 +39,7 @@ class MultiApp:
         })
 
     def run(self):
-        
+        st.sidebar.image("./images/bike (2).png", use_column_width=True)
         st.sidebar.title("cycle_safe(berlin)")
        
         app = st.sidebar.radio(
